@@ -2,6 +2,7 @@
 Repositório para criação de uma imagem docker básica para Airflow 1.10.12 com spark 2.4.5
 
 #### 0. Tenha o docker instalado
+- [Instalação do docker no Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04-pt)
 #### 1. Faça o clone do repositório
 Depois entre na pasta onde está o dockerfile
 #### 2. Faça a construção da imagem baseada no dockerfile:
