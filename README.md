@@ -3,6 +3,7 @@ Repositório para criação de uma imagem docker básica para Airflow 1.10.12 co
 
 #### 0. Tenha o docker instalado
 #### 1. Faça o clone do repositório
+Depois entre na pasta onde está o dockerfile
 #### 2. Faça a construção da imagem baseada no dockerfile:
 ```
   docker build -t your_airflow_tag .
