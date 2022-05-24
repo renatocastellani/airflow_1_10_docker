@@ -20,5 +20,5 @@ Depois entre na pasta onde está o dockerfile
 - [http://localhost:8080](http://localhost:8080)
 
 #### 5. Para parar e iniciar sua imagem no docker:
-docker stop your_airflow_instance_name
-docker start your_airflow_instance_name
+- docker stop your_airflow_instance_name
+- docker start your_airflow_instance_name
