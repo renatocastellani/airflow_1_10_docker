@@ -5,7 +5,7 @@ Repositório para criação de uma imagem docker básica para Airflow 1.10.12 co
 
 [Site do Airflow 1.10.12](https://airflow.apache.org/docs/apache-airflow/1.10.12/)
 
-#### 0. Tenha o docker instalado :wrench: :computer: :electric_plug:
+#### 0. Tenha o docker instalado (se seu sistema principal for windows, sugestão: usar ou uma máquina virtual com Ubuntu ou o WSL2 com Ubuntu) :wrench: :computer: :electric_plug:
 - [Instalação do docker no Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04-pt)
 #### 1. Faça o clone do repositório  :arrow_down: :floppy_disk: :eyes:
 Depois entre na pasta onde está o dockerfile
