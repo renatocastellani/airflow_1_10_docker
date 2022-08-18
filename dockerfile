@@ -60,6 +60,7 @@ ENV SPARK_OPTS "--driver-java-options=-Xms1024M --driver-java-options=-Xmx4096M 
 
 # install airflow and other python packages
 RUN pip install --upgrade pip
+RUN pip install nbconvert==6.1.0
 RUN pip install apache-airflow==1.10.12 
 RUN pip install pyspark==3.0.0
 RUN pip install markupsafe==2.0.1
